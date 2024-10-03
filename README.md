@@ -28,3 +28,11 @@ Confirm that the the Master Node and Agent is successful
 
 ![image](https://github.com/user-attachments/assets/b4ee6ff8-ce20-4be8-9dfa-e16df91ece35)
 
+![image](https://github.com/user-attachments/assets/46e31f73-fc39-4c2c-8feb-e83449868649)
+
+![image](https://github.com/user-attachments/assets/31307f89-4509-4e07-84b4-4f0d8ecd8095)
+
+![image](https://github.com/user-attachments/assets/bf8eb758-c1a4-45d5-93e8-365c80635a93)
+
+
+
