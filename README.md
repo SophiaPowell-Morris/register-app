@@ -1,7 +1,7 @@
 register-app
 <br>
 
-# Install & Configure the Jenkins-Master & Jenkins-Agent
+### Install & Configure the Jenkins-Master & Jenkins-Agent
 
 ![image](https://github.com/user-attachments/assets/3e1cfc1b-9e01-4342-877c-61b1e4f013f9)
 
